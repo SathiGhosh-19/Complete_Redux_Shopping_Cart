@@ -1,8 +1,3 @@
 # React + Vite
+This is a shoping cart application  featuring product browsing , cart management, and user navigation . It uses React for UI , Redux for state management , axios for API request , and React Router for navigation . The app allows users to view products, manage their cart and navigate seemlessly between different pages.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
